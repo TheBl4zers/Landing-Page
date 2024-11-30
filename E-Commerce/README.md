@@ -1,4 +1,4 @@
-# Magma Clone
+# E-Commerce Website
 
 ## Hey there!
 ## I am Aarav
